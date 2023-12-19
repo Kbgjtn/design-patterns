@@ -1,5 +1,7 @@
 # Design Pattern
 
+<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F250000%2Fvelka%2Fabstract-design-pattern.jpg&f=1&nofb=1&ipt=18fc67e906643766ae308ebeea7bf676e290df6ce1adba7b37ec7efb4b944d37&ipo=images' width=100%>
+
 Design patterns are reusable solutions to common problems encountered in software design. They represent best practices for solving certain types of problems and provide a way to structure code in a modular and maintainable manner. Design patterns are not templates or finished designs; instead, they are guidelines for solving specific design problems.
 
 ## Categories of Design Patterns
